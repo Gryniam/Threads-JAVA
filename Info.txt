@@ -1,0 +1,6 @@
+1. Perform the integration of an arbitrarily taken function by numerical methods.
+2. Divide the integration interval according to the integration step into parts.
+3. Select the integration step so that the task can be assigned to execution 1, 2,
+3 ... flows simultaneously.
+4. Determine the integration time for such cases, write the results in a text file.
+Construct the dependence of the integration time on the number of threads.
